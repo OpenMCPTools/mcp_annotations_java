@@ -9,6 +9,6 @@ Duplicating annotation classes for each framework is a waste of technical effort
 
 The goal of this repo is to serve as a dev-community-managed, public, multi-framework, 'standardized' set of MCP schema/spec-compliant annotation classes. Further, the goal is to have participation/contribution/review from as many tools builders, framework builders, and dev community contributors as possible.  This so that everyone can build on an open, up-to-date, spec-compliant, framework-agnostic, interoperabile, and well-maintained minimal set of annotation classes.  
 
-Interested developers are encouraged to join the project and/or contribute code, docs, public discussion and reviews, build infrastructure, or in other ways.
+Interested developers are encouraged to join the project and/or contribute code, docs, public discussion and reviews, build infrastructure, feature requests, or in other ways.
 
 The license will be open source, and dictated by the conventions selected by the MCP project/org.
