@@ -7,7 +7,7 @@ Currently (1/2026), the [Java MCP SDK](https://github.com/modelcontextprotocol/j
 
 Duplicating annotation classes for each framework is a waste of technical effort, and very inconvenient for mcp server and client developers, as they are forced to choose an MCP server implementation framework (e.g. Spring AI community) in order to define the meta-data for their MCP Primitives:  [Tools, Resources, and Prompts](https://modelcontextprotocol.io/specification/2025-11-25/server). It would be better for the entire MCP dev community if these annotation classes were part of an open, community-driven, framework-independent project and team.
 
-The goal of this repo is to serve as a dev-community-managed, public, multi-framework, 'standardized' set of MCP schema/spec-compliant annotation classes. Further, the goal is to have participation/contribution/review from as many tools builders, framework builders, and dev community contributors as possible.  This so that everyone can build on an open, up-to-date, spec-compliant, framework-agnostic, interoperabile, and well-maintained minimal set of annotation classes.  
+The goal of this repo is to serve as a dev-community-managed, public, multi-framework, 'standardized' set of MCP schema/spec-compliant annotation classes. Further, the goal is to have participation/contribution/review from as many tools builders, framework builders, and dev community contributors as possible.  This so that everyone can build on an open, up-to-date, spec-compliant, framework-agnostic, interoperable, and well-maintained minimal set of annotation classes.  
 
 Interested developers are encouraged to join the project and/or contribute code, docs, public discussion and reviews, build infrastructure, feature requests, or in other ways.
 
